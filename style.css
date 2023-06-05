@@ -1,0 +1,28 @@
+*{
+    margin:0;
+}
+.resume{
+    text-align:center;
+    width:80%;
+    border:solid black 5px;
+    padding:3rem;
+    margin-left:6rem;
+    
+}
+
+footer{
+    width:80%;
+    text-align:center;
+    border:solid black 5px;
+    padding:3rem;
+    margin-top:3rem;
+    margin-left:6rem;
+    
+}
+h2{
+    text-align: start;
+    margin-left:3rem;
+}
+#summary{
+    text-align: center;
+}
