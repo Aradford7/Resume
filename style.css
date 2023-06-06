@@ -23,6 +23,17 @@ h2{
     text-align: start;
     margin-left:3rem;
 }
+h3{
+    text-align: start;
+    margin-left:3rem; 
+}
 #summary{
     text-align: center;
+}
+#summary-p{
+    text-align: center;
+}
+p{
+    text-align: end;
+    margin-right:3rem;
 }
