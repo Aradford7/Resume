@@ -6,17 +6,18 @@
     width:80%;
     border:solid black 5px;
     padding:3rem;
-    margin-left:6rem;
+    margin-left:10rem;
     
 }
 
 footer{
-    width:80%;
+    /* width:80%;
     text-align:center;
     border:solid black 5px;
     padding:3rem;
     margin-top:3rem;
-    margin-left:6rem;
+    margin-left:6rem; */
+    background-color: floralwhite;
     
 }
 h2{
@@ -24,6 +25,7 @@ h2{
     margin-left:3rem;
 }
 h3{
+    margin-top:3rem;
     text-align: start;
     margin-left:3rem; 
 }
@@ -36,4 +38,15 @@ h3{
 p{
     text-align: end;
     margin-right:3rem;
+}
+div{
+    margin:1rem;
+    padding:1 rem;
+}
+li{
+    text-align: start;
+    margin:1rem;
+}
+hr{
+    margin-top:3rem;
 }
