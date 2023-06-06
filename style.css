@@ -1,25 +1,31 @@
 *{
-    margin:0;
+   
    
 }
 body{
     background-color:lightgray;
+    margin:auto;
 }
 nav{
-    margin-top:auto;
     text-align:center;
-    margin:0;
-    background-color:floralwhite;
-    height: 2rem;
+    background-color:lightskyblue;
+    height: 3rem;
+  
+    
 }
 a {
-    margin:1rem;
-    padding: 1rem;;
+    margin-left:3rem;
+    margin-right:3rem;
+    color:slategray;
+    text-decoration:none;
+    padding-top:3rem;
+  
+   
 }
 .nav-links{
-   
-    text-align:center;
-    margin-top:0;
+   text-align:center;
+   margin:0;
+   padding-top: 1rem;
  
 }
 .resume{
@@ -41,11 +47,12 @@ footer{
     padding:3rem;
     margin-top:3rem;
     margin-left:6rem; */
-    background-color: floralwhite;
+    background-color: lightskyblue;
     height:50px;
 }
 footer p {
     padding-top: 1rem;
+    color:slategray;
 }
 h1{
     margin:1rem;
