@@ -1,6 +1,18 @@
 *{
     margin:0;
 }
+nav{
+    text-align:center;
+    margin 5px;
+    margin:0;
+    background-color:floralwhite;
+}
+a {
+    margin:1rem;
+}
+.nav-links{
+    margin-left:10rem;
+}
 .resume{
     text-align:center;
     width:80%;
@@ -20,6 +32,9 @@ footer{
     background-color: floralwhite;
     
 }
+h1{
+    margin:1rem;
+}
 h2{
     text-align: start;
     margin-left:3rem;
@@ -31,6 +46,7 @@ h3{
 }
 #summary{
     text-align: center;
+    margin:1rem;
 }
 #summary-p{
     text-align: center;
