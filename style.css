@@ -8,21 +8,27 @@ nav{
     text-align:center;
     margin:0;
     background-color:floralwhite;
+    height: 2rem;
 }
 a {
     margin:1rem;
+    padding: 1rem;;
 }
 .nav-links{
-    margin-left:10rem;
+   
+    text-align:center;
     margin-top:0;
+ 
 }
 .resume{
+    margin-top:3rem;
     text-align:center;
     width:60%;
-    border:solid black 5px;
-    padding:3rem;
+    border:solid black 1px;
+    padding:10px;
     margin-left:23rem;
-    
+    box-shadow: 5px 10px 18px #888888;
+    margin-bottom: 3rem;
 }
 
 footer{
@@ -33,7 +39,10 @@ footer{
     margin-top:3rem;
     margin-left:6rem; */
     background-color: floralwhite;
-    
+    height:50px;
+}
+footer p {
+    padding-top: 1rem;
 }
 h1{
     margin:1rem;
