@@ -53,6 +53,8 @@ footer{
 footer p {
     padding-top: 1rem;
     color:slategray;
+    text-decoration:none;
+   
 }
 h1{
     margin:1rem;
@@ -72,19 +74,24 @@ h3{
 }
 #summary-p{
     text-align: center;
-    margin: 1rem 3rem 0rem 3rem;
+    margin: 1rem 3rem 1rem 3rem;
 }
 p{
     text-align: end;
     margin-right:3rem;
+    line-height: 1.5rem;
 }
 div{
     margin:1rem;
     padding:1 rem;
 }
+.footer-links{
+    list-style-type: none;
+}
 li{
     text-align: start;
     margin:1rem;
+    line-height: 1.5rem;
 }
 hr{
     margin:3rem;
