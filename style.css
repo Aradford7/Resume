@@ -64,7 +64,7 @@ h2{
     margin-left:3rem;
 }
 h3{
-    margin-top:3rem;
+    margin-top:2rem;
     text-align: start;
     margin-left:3rem; 
 }
@@ -75,6 +75,7 @@ h3{
 #summary-p{
     text-align: center;
     margin: 1rem 3rem 1rem 3rem;
+    padding:1rem;
 }
 p{
     text-align: end;
@@ -83,20 +84,63 @@ p{
 }
 div{
     margin:1rem;
-    padding:1 rem;
+    /* padding:1rem; */
 }
 .footer-links{
     list-style-type: none;
+    display:flex;
+    justify-content: center;
+    margin:0;
+    text-align:center;
+    
 }
 li{
     text-align: start;
-    margin:1rem;
-    line-height: 1.5rem;
+    margin: 1rem;
+    line-height: 1rem;
 }
 hr{
-    margin:3rem;
+    width:90%;
+    margin:auto;
 }
 img{
     height:10%;
     width:10%;
+}
+.skills{
+    display:flex;
+    margin-top:-2rem;
+    
+}
+.main-skills{
+    
+ margin-left:1rem;
+   
+}
+.soft-skills{
+   
+    
+}
+.education{
+    padding:1rem;
+    margin-top:-1rem;
+}
+.education h2{
+ 
+    margin-left:2rem;
+    
+}
+.projects{
+    padding:1rem;
+    margin: 1rem;
+}
+.work-exp{
+    padding:1rem;
+    margin: 1rem;
+}
+.other-links{
+   
+}
+.date{
+    margin-top:-3rem;
 }
